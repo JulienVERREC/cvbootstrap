@@ -1,4 +1,14 @@
+body{
+	background: url("http://www.myfreetextures.com/wp-content/uploads/2014/10/watersteel2.jpg")
+	
+}
+
 .info{
 	margin-top:5%;
 	margin-left:2%;
+}
+
+#Contact {
+	margin-left: -80pt;
+	padding-top: 30pt;
 }
